@@ -1,0 +1,14 @@
+body {
+  background-color: #FBFAF7;
+}
+
+#fork-me-on-github {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 149px;
+  height: 149px;
+  text-indent: -9999px;
+  background: url(http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png) no-repeat;
+}
