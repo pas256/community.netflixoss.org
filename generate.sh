@@ -1,3 +1,3 @@
 #!/bin/bash
 
-bfdocs src/manifest.json html
+bfdocs --base-url=/ --templates-dir=templates/community src/manifest.json ../community.netflixoss.org-html
