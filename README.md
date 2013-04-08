@@ -2,7 +2,7 @@
 
 This the the source code for the Unofficial NetflixOSS Community website which you can find here:
 
-    http://community.netflixoss.org/
+[http://community.netflixoss.org/](http://community.netflixoss.org/)
     
 ## Motivation
 
