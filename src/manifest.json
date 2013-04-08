@@ -1,0 +1,6 @@
+{
+	"title": "The Unofficial NetflixOSS Community Website",
+	"files": ["home.md", "about.md", "denominator.md"],
+	"home": "home.md",
+	"github": "pas256/community.netflixoss.org"
+}
